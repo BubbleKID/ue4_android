@@ -45,3 +45,18 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+
+*.opensdf
+*.log
+*.sdf
+*.sln
+*.suo
+*\Logs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Bulid
+Binaries
