@@ -1,7 +1,7 @@
 package com.epicgames.ue4;
 
-import com.YourCompany.bba.OBBDownloaderService;
-import com.YourCompany.bba.DownloaderActivity;
+import com.ChengTou3D.bba.OBBDownloaderService;
+import com.ChengTou3D.bba.DownloaderActivity;
 
 
 public class DownloadShim

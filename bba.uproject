@@ -32,5 +32,8 @@
 			"Name": "StereoPanorama",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }

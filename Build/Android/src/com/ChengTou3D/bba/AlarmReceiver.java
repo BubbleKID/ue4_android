@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.bba;
+package com.ChengTou3D.bba;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

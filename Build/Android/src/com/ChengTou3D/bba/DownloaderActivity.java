@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.bba;
+package com.ChengTou3D.bba;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

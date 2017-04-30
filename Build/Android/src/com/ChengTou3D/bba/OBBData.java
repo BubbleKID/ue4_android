@@ -1,4 +1,4 @@
-package com.YourCompany.bba;
+package com.ChengTou3D.bba;
 
 public class OBBData
 {
@@ -17,7 +17,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-2102328208L // the length of the file in bytes
+778696730L // the length of the file in bytes
 )
 };
 };
